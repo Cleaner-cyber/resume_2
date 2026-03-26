@@ -1,0 +1,2 @@
+[build]
+builder = "vite" # 如果你用的不是 Vite 创建的 Vue，可以改成 "npm" 或 "yarn"
